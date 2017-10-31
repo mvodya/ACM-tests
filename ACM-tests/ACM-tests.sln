@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1263-Voting", "1263-Voting\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1319-Hotel", "1319-Hotel\1319-Hotel.vcxproj", "{E09A8B47-4F25-4ABE-A291-281061E5E08A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1567-SMS-Spam", "1567-SMS-Spam\1567-SMS-Spam.vcxproj", "{A9EAC678-59FD-41A4-989B-A4A2CE716025}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{E09A8B47-4F25-4ABE-A291-281061E5E08A}.Release|x64.Build.0 = Release|x64
 		{E09A8B47-4F25-4ABE-A291-281061E5E08A}.Release|x86.ActiveCfg = Release|Win32
 		{E09A8B47-4F25-4ABE-A291-281061E5E08A}.Release|x86.Build.0 = Release|Win32
+		{A9EAC678-59FD-41A4-989B-A4A2CE716025}.Debug|x64.ActiveCfg = Debug|x64
+		{A9EAC678-59FD-41A4-989B-A4A2CE716025}.Debug|x64.Build.0 = Debug|x64
+		{A9EAC678-59FD-41A4-989B-A4A2CE716025}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9EAC678-59FD-41A4-989B-A4A2CE716025}.Debug|x86.Build.0 = Debug|Win32
+		{A9EAC678-59FD-41A4-989B-A4A2CE716025}.Release|x64.ActiveCfg = Release|x64
+		{A9EAC678-59FD-41A4-989B-A4A2CE716025}.Release|x64.Build.0 = Release|x64
+		{A9EAC678-59FD-41A4-989B-A4A2CE716025}.Release|x86.ActiveCfg = Release|Win32
+		{A9EAC678-59FD-41A4-989B-A4A2CE716025}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
