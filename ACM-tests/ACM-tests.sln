@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1581-TeamWork", "1581-TeamW
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1585-Penguins", "1585-Penguins\1585-Penguins.vcxproj", "{949C9B91-5A12-4EA7-A15F-E147F619CEEF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2100-WeddingDinner", "2100-WeddingDinner\2100-WeddingDinner.vcxproj", "{596EACEF-7528-4881-B055-634D194DD7CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{949C9B91-5A12-4EA7-A15F-E147F619CEEF}.Release|x64.Build.0 = Release|x64
 		{949C9B91-5A12-4EA7-A15F-E147F619CEEF}.Release|x86.ActiveCfg = Release|Win32
 		{949C9B91-5A12-4EA7-A15F-E147F619CEEF}.Release|x86.Build.0 = Release|Win32
+		{596EACEF-7528-4881-B055-634D194DD7CB}.Debug|x64.ActiveCfg = Debug|x64
+		{596EACEF-7528-4881-B055-634D194DD7CB}.Debug|x64.Build.0 = Debug|x64
+		{596EACEF-7528-4881-B055-634D194DD7CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{596EACEF-7528-4881-B055-634D194DD7CB}.Debug|x86.Build.0 = Debug|Win32
+		{596EACEF-7528-4881-B055-634D194DD7CB}.Release|x64.ActiveCfg = Release|x64
+		{596EACEF-7528-4881-B055-634D194DD7CB}.Release|x64.Build.0 = Release|x64
+		{596EACEF-7528-4881-B055-634D194DD7CB}.Release|x86.ActiveCfg = Release|Win32
+		{596EACEF-7528-4881-B055-634D194DD7CB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
