@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2100-WeddingDinner", "2100-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1876-MorningCentipede", "1876-MorningCentipede\1876-MorningCentipede.vcxproj", "{93FE0F8C-2B1C-4BFD-AF15-95F6FBC7BF7B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1545-Hieroglyphs", "1545-Hieroglyphs\1545-Hieroglyphs.vcxproj", "{77C5DDDC-4A77-46E3-BFF4-91E9C008760E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{93FE0F8C-2B1C-4BFD-AF15-95F6FBC7BF7B}.Release|x64.Build.0 = Release|x64
 		{93FE0F8C-2B1C-4BFD-AF15-95F6FBC7BF7B}.Release|x86.ActiveCfg = Release|Win32
 		{93FE0F8C-2B1C-4BFD-AF15-95F6FBC7BF7B}.Release|x86.Build.0 = Release|Win32
+		{77C5DDDC-4A77-46E3-BFF4-91E9C008760E}.Debug|x64.ActiveCfg = Debug|x64
+		{77C5DDDC-4A77-46E3-BFF4-91E9C008760E}.Debug|x64.Build.0 = Debug|x64
+		{77C5DDDC-4A77-46E3-BFF4-91E9C008760E}.Debug|x86.ActiveCfg = Debug|Win32
+		{77C5DDDC-4A77-46E3-BFF4-91E9C008760E}.Debug|x86.Build.0 = Debug|Win32
+		{77C5DDDC-4A77-46E3-BFF4-91E9C008760E}.Release|x64.ActiveCfg = Release|x64
+		{77C5DDDC-4A77-46E3-BFF4-91E9C008760E}.Release|x64.Build.0 = Release|x64
+		{77C5DDDC-4A77-46E3-BFF4-91E9C008760E}.Release|x86.ActiveCfg = Release|Win32
+		{77C5DDDC-4A77-46E3-BFF4-91E9C008760E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
