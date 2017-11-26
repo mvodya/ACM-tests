@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1881-LongConditionOfProblem
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1446-MagicWand", "1446-MagicWand\1446-MagicWand.vcxproj", "{8DF53BAD-3215-4DE7-BC34-5CAE9EC7DF6B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1493-InOneStepFromHappiness", "1493-InOneStepFromHappiness\1493-InOneStepFromHappiness.vcxproj", "{C5E0593D-776D-4C42-9084-179D1DD62C4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{8DF53BAD-3215-4DE7-BC34-5CAE9EC7DF6B}.Release|x64.Build.0 = Release|x64
 		{8DF53BAD-3215-4DE7-BC34-5CAE9EC7DF6B}.Release|x86.ActiveCfg = Release|Win32
 		{8DF53BAD-3215-4DE7-BC34-5CAE9EC7DF6B}.Release|x86.Build.0 = Release|Win32
+		{C5E0593D-776D-4C42-9084-179D1DD62C4D}.Debug|x64.ActiveCfg = Debug|x64
+		{C5E0593D-776D-4C42-9084-179D1DD62C4D}.Debug|x64.Build.0 = Debug|x64
+		{C5E0593D-776D-4C42-9084-179D1DD62C4D}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5E0593D-776D-4C42-9084-179D1DD62C4D}.Debug|x86.Build.0 = Debug|Win32
+		{C5E0593D-776D-4C42-9084-179D1DD62C4D}.Release|x64.ActiveCfg = Release|x64
+		{C5E0593D-776D-4C42-9084-179D1DD62C4D}.Release|x64.Build.0 = Release|x64
+		{C5E0593D-776D-4C42-9084-179D1DD62C4D}.Release|x86.ActiveCfg = Release|Win32
+		{C5E0593D-776D-4C42-9084-179D1DD62C4D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
