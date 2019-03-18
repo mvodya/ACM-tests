@@ -7,7 +7,7 @@ using namespace std;
 int main() {
   short int n, m, y;
   // Ввод чисел
-  scanf("%d %d %d", &n, &m, &y);
+  scanf("%hd %hd %hd", &n, &m, &y);
 
   // Вычисление
   bool empty = true;
