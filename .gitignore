@@ -1,5 +1,6 @@
 # VSCode
 .vscode
+.vs
 
 # Build directory
 [Bb]uild
